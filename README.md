@@ -1,5 +1,10 @@
 # functional programming 4 noobs
 
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+
+
 ![lambda](./img/Lambda.webp)
 
 The objective of this repository is above all to learn functional programming and pass on some of this learning to you. I think the best way to learn FP is to start with Scheme, but understanding its cousins, Common Lisp and Haskell, will provide a broader perspective on functional programming paradigms and their practical applications.
