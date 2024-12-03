@@ -9,6 +9,10 @@
 
 The objective of this repository is above all to learn functional programming and pass on some of this learning to you. I think the best way to learn FP is to start with Scheme, but understanding its cousins, Common Lisp and Haskell, will provide a broader perspective on functional programming paradigms and their practical applications.
 
+### Projects
+
+At the end of each language session, with what we learned we will write a simple interpreter for a pseudo language that we will develop, and all the codes for all interpreters will be in the projects session
+
 ### What is Scheme?
 
 Scheme is a minimalist dialect of Lisp (LISt Processing), designed in the 1970s by Guy L. Steele and Gerald Jay Sussman. Its primary goal was to provide a clean, small, and elegant subset of Lisp, emphasizing a functional programming paradigm while retaining Lisp’s core principles like symbolic computation and dynamic typing.
